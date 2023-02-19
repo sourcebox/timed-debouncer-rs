@@ -1,0 +1,11 @@
+[package]
+name = "timed-debouncer"
+description = "Time-based signal debouncer."
+version = "0.1.0"
+authors = ["Oliver Rockstedt <info@sourcebox.de>"]
+license = "MIT"
+edition = "2021"
+rust-version = "1.56"
+repository = "https://github.com/sourcebox/timed-debouncer-rs"
+categories = ["no-std", "embedded", "hardware-support"]
+keywords = ["button", "switch", "contact", "debouncing"]
